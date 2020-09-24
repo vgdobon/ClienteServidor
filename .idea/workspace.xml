@@ -5,33 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2099f6-1dfd-4201-bed8-1714913e915b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Cliente-Servidor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sockets/src/main/java/com/DescargaFichero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sockets/Sockets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/Sockets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sockets/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sockets/src/main/java/com/SimpleClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/src/main/java/com/SimpleClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sockets/src/main/java/com/SimpleServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/src/main/java/com/SimpleServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/target/classes/com/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/target/classes/com/Checker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/target/classes/com/SimpleClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/target/classes/com/SimpleClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/target/classes/com/SimpleServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/target/classes/com/SimpleServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/target/test-classes/CheckerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/target/test-classes/CheckerTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,40 +90,56 @@
       <option name="presentableId" value="Default" />
       <updated>1600887252531</updated>
     </task>
+    <task id="LOCAL-00001" summary="Gestion de descargas en el cliente a través del servidor.">
+      <created>1600910793472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600910793472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gestion de descargas en el cliente a través del servidor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Gestion de descargas en el cliente a través del servidor." />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1600910180843">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="445" y="198" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1600910180843" />
-    <state x="266" y="60" key="CommitChangelistDialog2" timestamp="1600910421049">
+    <state x="266" y="60" key="CommitChangelistDialog2" timestamp="1600910792273">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="266" y="60" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1600910421049" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1600910386215">
+    <state x="266" y="60" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1600910792273" />
+    <state width="1237" height="250" key="GridCell.Tab.0.bottom" timestamp="1600910967552">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1600910386215" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1600910386215">
+    <state width="1237" height="250" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1600910967552" />
+    <state width="1237" height="250" key="GridCell.Tab.0.center" timestamp="1600910967552">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1600910386215" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1600910386215">
+    <state width="1237" height="250" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1600910967552" />
+    <state width="1237" height="250" key="GridCell.Tab.0.left" timestamp="1600910967552">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1600910386215" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1600910386215">
+    <state width="1237" height="250" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1600910967552" />
+    <state width="1237" height="250" key="GridCell.Tab.0.right" timestamp="1600910967552">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1600910386215" />
+    <state width="1237" height="250" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1600910967552" />
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1600910795639">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1600910795639" />
     <state x="424" y="393" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600910577722">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="424" y="393" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.984@0.0.1280.984" timestamp="1600910577722" />
-    <state x="231" y="153" key="new project wizard" timestamp="1600904181379">
+    <state x="179" y="78" key="new project wizard" timestamp="1600947438561">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="231" y="153" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1600904181379" />
+    <state x="179" y="78" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1600947438561" />
   </component>
 </project>

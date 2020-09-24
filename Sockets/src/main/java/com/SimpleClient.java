@@ -59,7 +59,6 @@ public class SimpleClient {
             FileOutputStream fos = new FileOutputStream("Descargas/" + url + ".deb");
             fos.write(dis.readAllBytes());
 
-
         } catch (IOException e) {
             e.printStackTrace();
         }
